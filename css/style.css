@@ -12,3 +12,12 @@ margin-right: 35px;
     
     background-color: brown;
 }
+.navbar-brand{
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-link {
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
